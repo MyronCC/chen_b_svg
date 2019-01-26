@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="element" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 95.2 104.1" style="enable-background:new 0 0 95.2 104.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	<!-- :hover .st0{stroke:#8c8c8c;}
+	:hover .st1{stroke:#8c8c8c;}
+	:hover .st2{stroke:#8c8c8c;}
+	:hover circle{fill:#8c8c8c;}
+	:hover #bus_1_{fill:#8c8c8c;} -->
+</style>
+<g id="bus_1_">
+	<path class="st0" d="M84.4,91H10.9c-1,0-1.7-0.8-1.7-1.7V32.7c0-1,0.8-1.7,1.7-1.7h73.5c1,0,1.7,0.8,1.7,1.7v56.5
+		C86.1,90.2,85.4,91,84.4,91z"/>
+	<line class="st1" x1="37.6" y1="17.5" x2="57.6" y2="17.5"/>
+	<path class="st0" d="M9.1,17.4C9.1,10,15.1,4,22.5,4h50.3c7.4,0,13.4,6,13.4,13.4V31h-77V17.4z"/>
+	<line class="st0" x1="9.1" y1="65.3" x2="86.1" y2="65.3"/>
+	<circle cx="24.6" cy="78" r="5"/>
+	<circle cx="71.5" cy="78" r="5"/>
+	<line class="st2" x1="90.2" y1="26.6" x2="90.2" y2="48.8"/>
+	<line class="st2" x1="5" y1="27.2" x2="5" y2="48.8"/>
+	<path d="M27.9,104.1h-6.6c-2.3,0-4.2-1.9-4.2-4.2v-4.6c0-2.3,1.9-4.2,4.2-4.2h6.6c2.3,0,4.2,1.9,4.2,4.2v4.6
+		C32.1,102.2,30.2,104.1,27.9,104.1z"/>
+	<path d="M74.7,103.7h-6.6c-2.3,0-4.2-1.9-4.2-4.2v-4.6c0-2.3,1.9-4.2,4.2-4.2h6.6c2.3,0,4.2,1.9,4.2,4.2v4.6
+		C79,101.8,77.1,103.7,74.7,103.7z"/>
+</g>
+</svg>
